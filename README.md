@@ -1,3 +1,3 @@
 # NucleiSegNet
-Code and Dataset for Nuceli Segmentation of Liver Histopathology Images are comming soon
+Code and Dataset for Nuclei Segmentation of Liver Histopathology Images are comming soon
 
