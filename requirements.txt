@@ -1,0 +1,15 @@
+tensorflow
+spams==2.6.2.5
+opencv-python==4.1.2
+pandas==1.1.5
+matplotlib==3.2.2
+statistics
+numpy
+tqdm==4.41.1
+warn
+scikit-learn
+scikit-image==0.16.2
+pathlib==1.0.1
+albumentations==0.1.12
+times
+
