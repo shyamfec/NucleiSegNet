@@ -17,6 +17,9 @@ author = {Shyam Lal and Devikalyan Das and Kumar Alabhya and Anirudh Kanfade and
 keywords = {Deep neural network, Histopathology image, Nuclei segmentation, Nuclei detection},
 }
 ```
+## KMC Liver dataset
+https://drive.google.com/drive/u/2/folders/1_lLVLKIqkpQa2YBC_76RUOXLLtdDIBoE
+
 ## Goal
 To perform nuclei segmentation of the Liver cancer Histopathology Images using deep learning architecture.
 
