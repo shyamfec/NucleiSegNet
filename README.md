@@ -20,7 +20,7 @@ This repository contains the Tensorflow code for the paper:
 
 * P.S. A link to the data set file will be sent as soon as possible.
 
-## KMC liver Histopathology Imagesdataset
+## KMC liver Histopathology dataset
 https://drive.google.com/drive/u/2/folders/1_lLVLKIqkpQa2YBC_76RUOXLLtdDIBoE
 
 If you find this dataset and code helpful, please cite our work:
@@ -38,7 +38,7 @@ author = {Shyam Lal and Devikalyan Das and Kumar Alabhya and Anirudh Kanfade and
 keywords = {Deep neural network, Histopathology image, Nuclei segmentation, Nuclei detection},
 }
 ```
-## Multi-organ Histopathology dataset
+## Multi-organ Histopathology dataset(Third Party Dataset)
 https://nucleisegmentationbenchmark.weebly.com/
 
 ## Goal
