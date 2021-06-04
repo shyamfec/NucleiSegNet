@@ -1,8 +1,29 @@
-# NucleiSegnet-Paper-with-Code
+# NucleiSegnet-Paper-with Code and Dataset
 This repository contains the Tensorflow code for the paper:
 [NucleiSegNet: Robust deep learning architecture for the nuclei segmentation of liver cancer histopathology images](https://www.sciencedirect.com/science/article/abs/pii/S0010482520304066)
 
-If you find this code helpful, please cite our work:
+## Request the KMC Liver Histopathology Dataset
+Please send an e-mail to shyam.mtec@gmail.com to receive a link to download the KMC liver Histopathology Images along with their annotations. The e-mail must include the following text (copy and paste the text below, filling the required fields, and send it with the signature, in PDF attached in the e-mail):
+Subject: Request to download the KMC liver Histopathology Images 
+"Name: [your first and last name]
+Affiliation with complete address: [university where you work/study]
+Department: [your department]
+Current position: [your job/(UG/PG) Student title]
+E-mail: [Preferably university/organization email id]
+I have read and agreed to follow the terms and conditions below: The following conditions define the use of the KMC liver Histopathology Images:
+This data set is provided "AS IS" without any express or implied warranty. Although every effort has been made to ensure accuracy, Image Processing and Analysis Lab does not take any responsibility for errors or omissions;
+Without the expressed permission of Image Processing and Analysis Lab, any of the following will be considered illegal: redistribution, modification, and commercial usage of this data set in any way or form, either partially or in its entirety;
+All images in this data set are only allowed for demonstration in academic publications and presentations;
+This data set will only be used for research purposes. I will not make any part of this data set available to a third party. I'll not sell any part of this data set or make any profit from its use.
+
+[Your digital signature]"
+
+P.S. A link to the data set file will be sent as soon as possible.
+
+## KMC Liver KMC liver Histopathology Imagesdataset
+https://drive.google.com/drive/u/2/folders/1_lLVLKIqkpQa2YBC_76RUOXLLtdDIBoE
+
+If you find this dataset and code helpful, please cite our work:
 ```
 @article{LAL2021104075,
 title = {NucleiSegNet: Robust deep learning architecture for the nuclei segmentation of liver cancer histopathology images},
@@ -17,8 +38,7 @@ author = {Shyam Lal and Devikalyan Das and Kumar Alabhya and Anirudh Kanfade and
 keywords = {Deep neural network, Histopathology image, Nuclei segmentation, Nuclei detection},
 }
 ```
-## KMC Liver dataset
-https://drive.google.com/drive/u/2/folders/1_lLVLKIqkpQa2YBC_76RUOXLLtdDIBoE
+
 
 ## Goal
 To perform nuclei segmentation of the Liver cancer Histopathology Images using deep learning architecture.
