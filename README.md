@@ -17,9 +17,9 @@ This repository contains the Tensorflow code for the paper:
 * All images in this data set are only allowed for demonstration in academic publications and presentations;
 * This data set will only be used for research purposes. I will not make any part of this data set available to a third party. I'll not sell any part of this data set or make any profit from its use.
 
-# [Your digital signature]"
+* [Your digital signature]"
 
-# P.S. A link to the data set file will be sent as soon as possible.
+* P.S. A link to the data set file will be sent as soon as possible.
 
 ## KMC Liver KMC liver Histopathology Imagesdataset
 https://drive.google.com/drive/u/2/folders/1_lLVLKIqkpQa2YBC_76RUOXLLtdDIBoE
