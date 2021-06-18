@@ -6,7 +6,7 @@ This repository contains the Tensorflow code for the paper:
 https://drive.google.com/drive/u/2/folders/1_lLVLKIqkpQa2YBC_76RUOXLLtdDIBoE
 
 ## Request the KMC Liver Histopathology Dataset
-* Please send an e-mail to shyam.mtec@gmail.com to receive a link to download the KMC liver Histopathology Images along with their annotations. The e-mail must include the following text (copy and paste the text below, filling the required fields, and send it with the signature, in PDF attached in the e-mail):
+* Please send an e-mail to shyam.mtec@gmail.com to receive a link to download the KMC liver Histopathology Images along with their annotations. The e-mail must include the following text (copy and paste the text below, filling the required fields):
 * Subject: Request to download the KMC liver Histopathology Images 
 * "Name: [your first and last name]
 * Affiliation with complete address: [university where you work/study]
