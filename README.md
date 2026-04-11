@@ -3,7 +3,7 @@ This repository contains the Tensorflow code for the paper:
 [NucleiSegNet: Robust deep learning architecture for the nuclei segmentation of liver cancer histopathology images](https://www.sciencedirect.com/science/article/abs/pii/S0010482520304066)
 
 ## KMC liver Histopathology dataset
-https://drive.google.com/drive/u/2/folders/1_lLVLKIqkpQa2YBC_76RUOXLLtdDIBoE
+https://drive.google.com/drive/folders/1_lLVLKIqkpQa2YBC_76RUOXLLtdDIBoE?usp=drive_link
 
 ## Request the KMC Liver Histopathology Dataset
 * Please send an e-mail to shyam.mtec@gmail.com to receive a link to download the KMC liver Histopathology Images along with their annotations. The e-mail must include the following text (copy and paste the text below, filling the required fields):
